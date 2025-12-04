@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "bloque": "temporal",
+    "condicion": "rapida",
+    "magnitud": "baja",
+    "opcionA": { "monto": 100, "dias": 0 },
+    "opcionB": { "monto": 120, "dias": 7 },
+    "tiempoMax": 3000
+  },
+  {
+    "id": 2,
+    "bloque": "probabilistico",
+    "condicion": "extendida",
+    "magnitud": "alta",
+    "opcionA": { "monto": 100, "prob": 1 },
+    "opcionB": { "monto": 200, "prob": 0.7 },
+    "tiempoMax": null
+  }
+]
+
